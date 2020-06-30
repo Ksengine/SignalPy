@@ -1,0 +1,4 @@
+include LICENSE.txt README.md
+include signalpy/base.tmp
+include signalpy/404.tmp
+include signalpy/500.tmp
