@@ -1,6 +1,9 @@
 ﻿# SignalPy
 **Real-time Communication for web applications  with SignalR**
 *Incredibly simple real-time web for python WSGI servers and frameworks*
+
+[![Downloads](https://pepy.tech/badge/signalpy)](https://pepy.tech/project/signalpy)
+
 ## Realtime
 Today's modern websites are expected to deliver up-to-date information without hitting a refresh button. Add that real-time functionality to your python web applications.
 
