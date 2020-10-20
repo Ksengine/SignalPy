@@ -1,9 +1,6 @@
 ﻿# SignalPy
 **Real-time Communication for web applications  with SignalR**
 *Incredibly simple real-time web for python WSGI servers and frameworks*
-
-[![Downloads](https://pepy.tech/badge/signalpy)](https://pepy.tech/project/signalpy)
-
 ## Realtime
 Today's modern websites are expected to deliver up-to-date information without hitting a refresh button. Add that real-time functionality to your python web applications.
 
@@ -28,5 +25,5 @@ SignalPy will use WebSockets when it's available, and gracefully falls back on o
  Don't compare SignalPy and [SignalR](https://dotnet.microsoft.com/apps/aspnet/signalr). Signalr is a powerful method for .NET framework. Its not for python
  it is an example for SignalPy. SinalPy is not powerful like SignalR. Help me to improve this project like SignalR.
  
- **Contribute**
+ **Contribute** in [Github](https://github.com/Ksengine/SignalPy)
  # Get started...
